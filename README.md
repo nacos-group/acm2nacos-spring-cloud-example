@@ -3,7 +3,7 @@
 
 在整个迁移过程中，用户只需要做两部操作：
 
-1 参考https://help.aliyun.com/document_detail/312705.html将配置从acm导出，并导入到nacos
+1 参考https://help.aliyun.com/document_detail/312705.html  将配置从acm导出，并导入到nacos
 
 2 在src/main/resources目录下的bootstrap.properties下面进行如注释内容的替换。
 
