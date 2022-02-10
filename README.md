@@ -21,3 +21,7 @@ spring.cloud.nacos.config.access-key={ak}
 spring.cloud.nacos.config.secret-key={sk}
 
 ```
+
+* 注：该参考实例代码中，dataId和groupId在此处。
+ ![Uploading image.png…]()
+
